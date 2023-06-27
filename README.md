@@ -1,2 +1,0 @@
-# Project-devops
-Amateur projects
